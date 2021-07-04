@@ -33,14 +33,4 @@ const structureItems = (itemData) => {
   return res.reverse()
 }
 
-// examine: "Fabulously ancient mage protection enchanted in the 3rd Age."
-// highalch: 30300
-// icon: "3rd age amulet.png"
-// id: 10344
-// limit: 8
-// lowalch: 20200
-// members: true
-// name: "3rd age amulet"
-// value: 50500
-
 export default structureItems
